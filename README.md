@@ -16,6 +16,13 @@ Also see which ECMAScript 6 features your browser does and doesn’t support in 
 
 <a href="http://kangax.github.io/compat-table/es6/" target="_blank">ES6 compatibility table</a>	
 
+## ES6 Tools
+
+- ES6 online <a href="http://babeljs.io/repl/" target="_blank">try it out</a>.
+- Chrome extension <a href="https://goo.gl/5bqjIo" target="_blank">Scratch JS</a> to run ES6 in devTools.
+
+Find more tools <a href="https://github.com/addyosmani/es6-tools" target="_blank">here</a>.
+
 ## Table of Contents
 - [Arrows](https://github.com/gokulkrishh/ES6-Examples/blob/master/Examples/Arrows/Arrows.md "Arrows")
 - [Parameters](https://github.com/gokulkrishh/ES6-Examples/blob/master/Examples/Parameter%20Handling/Parameter%20Handling.md "Parameter Handling")
