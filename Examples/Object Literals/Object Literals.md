@@ -1,6 +1,6 @@
 # Object Literals
 
-Added a method in object become simple enough in ES6.
+Addind a method in object has become simple enough in ES6.
 
 <a href="http://goo.gl/ObpLSN" target="_blank">Demo</a>
 
