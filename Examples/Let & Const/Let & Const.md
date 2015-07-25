@@ -50,8 +50,10 @@ bar = 'World'; //"bar" is read-only
 
 ````
 
+**[⬆ back to top](#table-of-contents)**
+
 
 ## Reference
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let" target="_blank">let</a>
-<a href="http://babeljs.io/docs/learn-es2015/#let-const" target="_blank">let const</a>
+- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let" target="_blank">let</a>
+- <a href="http://babeljs.io/docs/learn-es2015/#let-const" target="_blank">let const</a>

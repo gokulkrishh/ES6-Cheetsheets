@@ -38,6 +38,8 @@ for (var i of arr) {
 
 ````
 
+**[⬆ back to top](#table-of-contents)**
+
 ## Reference
 
-<a href="https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Statements/for...of" target="_blank">let</a>
+- <a href="https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Statements/for...of" target="_blank">let</a>
