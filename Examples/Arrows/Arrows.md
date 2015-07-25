@@ -17,6 +17,10 @@ Immediately invoked function expression (iife).
 
 ````
 () => { alert('Hello World!') }()
+
+or 
+
+(() => 7)()
 ````
 
 *Converts as*
@@ -27,6 +31,13 @@ Immediately invoked function expression (iife).
 (function () {
   alert('Hello World!');
 })();
+
+or
+
+(function () {
+  return 7;
+})();
+
 ````
 >You might have noticed `use strict` in coversion. ES6 transpilers adds it by default. But for upcoming examples I am going to simply ignore `use strict`
 
