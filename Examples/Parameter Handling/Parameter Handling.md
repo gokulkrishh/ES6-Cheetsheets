@@ -1,6 +1,6 @@
 # Parameter Handling
 
-In ES6, handling a parameter or defining a method has become lot easier.
+In ES6, handling a parameter has become lot easier.
 
 ## Table of Contents
 

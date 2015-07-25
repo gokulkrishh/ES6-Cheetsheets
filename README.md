@@ -25,12 +25,14 @@ Find more tools <a href="https://github.com/addyosmani/es6-tools" target="_blank
 
 ## Table of Contents
 - [Arrows](https://github.com/gokulkrishh/ES6-Examples/blob/master/Examples/Arrows/Arrows.md "Arrows")
+- [Object Literals](https://github.com/gokulkrishh/ES6-Examples/blob/master/Examples/Object%20Literals/Object%20Literals.md "Object Literals")
 - [Parameters](https://github.com/gokulkrishh/ES6-Examples/blob/master/Examples/Parameter%20Handling/Parameter%20Handling.md "Parameter Handling")
 - [Let & Const](https://github.com/gokulkrishh/ES6-Examples/blob/master/Examples/Let%20&%20Const/Let%20&%20Const.md "Let & Const")
 - [Iterators](https://github.com/gokulkrishh/ES6-Examples/blob/master/Examples/Iterators/Iterators.md "Iterators")
 - [Classes](#classes) - In progress
 - [Generators](#generators) - In progress
-- [Modules](#modules) - In progress
+- [Modules & Loaders](#modules-&-loaders) - In progress
+- [Promises](#promises) - In progress
 
 
 *More contents and table of contents are constantly being updated...*
