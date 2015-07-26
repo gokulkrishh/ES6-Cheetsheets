@@ -24,7 +24,7 @@ Also see which ECMAScript 6 features your browser does and doesn’t support in 
 Find more tools <a href="https://github.com/addyosmani/es6-tools" target="_blank">here</a>.
 
 ## Table of Contents
-- [Arrows](https://github.com/gokulkrishh/ES6-Examples/blob/master/Examples/Arrows/Arrows.md "Arrows")
+- [Arrows Functions](https://github.com/gokulkrishh/ES6-Examples/blob/master/Examples/Arrows%20Functions/Arrows%20Functions.md "Arrows Functions")
 - [Object Literals](https://github.com/gokulkrishh/ES6-Examples/blob/master/Examples/Object%20Literals/Object%20Literals.md "Object Literals")
 - [Parameters](https://github.com/gokulkrishh/ES6-Examples/blob/master/Examples/Parameter%20Handling/Parameter%20Handling.md "Parameter Handling")
 - [Let & Const](https://github.com/gokulkrishh/ES6-Examples/blob/master/Examples/Let%20&%20Const/Let%20&%20Const.md "Let & Const")
@@ -39,7 +39,7 @@ Find more tools <a href="https://github.com/addyosmani/es6-tools" target="_blank
 
 ## Contributions
 
-Your contribution would be great and will help more people in understand ES6 features.
+Your contribution would be a great help for more developers in understanding ES6 features.
 
 - fork the repo
 - give a pull request
