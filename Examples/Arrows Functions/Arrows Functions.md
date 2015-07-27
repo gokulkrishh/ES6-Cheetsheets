@@ -14,6 +14,8 @@ Immediately invoked function expression (iife).
 
 <a href="https://goo.gl/fd2qyI" target="_blank">Demo</a>
 
+In ES6
+
 
 ````
 () => { alert('Hello World!') }()
@@ -23,7 +25,7 @@ or
 (() => 7)()
 ````
 
-*Converts as*
+*Converts into vanilla js as below*
 
 ````
 'use strict';
@@ -53,7 +55,7 @@ var funz = () => someStatement
 // equivalent to: => { return someExpression }
 ````
 
-*Converts as*
+*Converts into vanilla js as below*
 
 ````
 var funz = function funz() {
@@ -107,7 +109,7 @@ function father() {
 var f = new father();
 ````
 
-*Converts as*
+*Converts into vanilla js as below*
 
 ````
 
