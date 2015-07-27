@@ -29,7 +29,7 @@ Find more tools <a href="https://github.com/addyosmani/es6-tools" target="_blank
 - [Parameters](https://github.com/gokulkrishh/ES6-Examples/blob/master/Examples/Parameter%20Handling/Parameter%20Handling.md "Parameter Handling")
 - [Let & Const](https://github.com/gokulkrishh/ES6-Examples/blob/master/Examples/Let%20&%20Const/Let%20&%20Const.md "Let & Const")
 - [Iterators](https://github.com/gokulkrishh/ES6-Examples/blob/master/Examples/Iterators/Iterators.md "Iterators")
-- [Classes](#classes) - In progress
+- [Classes & Inheritance](https://github.com/gokulkrishh/ES6-Examples/blob/master/Examples/Classes%20&%20Inheritance/Classes%20&%20Inheritance.md "Classes & Inheritance")
 - [Generators](#generators) - In progress
 - [Modules & Loaders](#modules-&-loaders) - In progress
 - [Promises](#promises) - In progress
