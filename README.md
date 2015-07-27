@@ -35,7 +35,7 @@ Find more tools <a href="https://github.com/addyosmani/es6-tools" target="_blank
 - [Promises](#promises) - In progress
 
 
-*More contents and table of contents are constantly being updated...*
+*More contents will be constantly updated...*
 
 ## Contributions
 
