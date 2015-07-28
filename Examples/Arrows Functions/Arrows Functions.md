@@ -91,7 +91,7 @@ var f = new father();
 ````
 
 <br>
->In ES6, `this` will be the value of its same context
+>In ES6, Arrows bind `this` to immediate enclosing lexical scope. You don't have to use `bind()` or `var that = this;` to bind `this` anymore.
 
 <br>
 
@@ -134,6 +134,7 @@ var f = new father();
 
 - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions" target="_blank">Arrow functions</a>
 - <a href="http://babeljs.io/docs/learn-es2015/" target="_blank">Learn es2015</a>
+- <a href="https://googlechrome.github.io/samples/arrows-es6/index.html" target="_blank">Arrows es6/</a>
 
 
 
