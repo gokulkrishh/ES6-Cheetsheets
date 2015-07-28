@@ -9,7 +9,7 @@
 
 *Written in venilla js*
 
-````
+```javascript
 var arr = [1, 2, 3, 4, 5, 6];
 
 arr.obj = 'I am a string';
@@ -27,7 +27,7 @@ for (var i in arr) {
 <a href="http://goo.gl/3SSWzy" target="_blank">Demo</a>
 
 
-````
+```javascript
 var arr = [1, 2, 3, 4, 5, 6];
 
 arr.obj = 'I am a string';

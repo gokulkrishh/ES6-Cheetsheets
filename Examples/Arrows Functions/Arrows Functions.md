@@ -17,17 +17,17 @@ Immediately invoked function expression (iife).
 In ES6
 
 
-````
+```javascript
 () => { alert('Hello World!') }()
 
 or 
 
 (() => 7)()
-````
+```
 
 *Converts into vanilla js as below*
 
-````
+```javascript
 'use strict';
 
 (function () {
@@ -49,7 +49,7 @@ or
 <a href="https://goo.gl/0GUKlj" target="_blank">Demo</a>
 
 
-````
+```javascript
 var funz = () => someStatement
 
 // equivalent to: => { return someExpression }
@@ -57,7 +57,7 @@ var funz = () => someStatement
 
 *Converts into vanilla js as below*
 
-````
+```javascript
 var funz = function funz() {
   return someStatement;
 };
@@ -74,7 +74,7 @@ the value of `this` is undefined in `use strict` mode function calls
 
 <a href="https://goo.gl/qx4TOB" target="_blank">Demo</a>
 
-````
+```javascript
 'use strict';
 
 function father(){
@@ -99,7 +99,7 @@ var f = new father();
 
 <a href="https://goo.gl/tvISlV" target="_blank">Demo</a>
 
-````
+```javascript
 function father() {
   this.age = 0;
   
@@ -111,7 +111,7 @@ var f = new father();
 
 *Converts into vanilla js as below*
 
-````
+```javascript
 
 function father() {
   var _this = this;

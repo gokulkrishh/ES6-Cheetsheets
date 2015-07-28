@@ -14,7 +14,7 @@ You cannot call a class like a normal function. But you can use `new` keyword to
 
 <a href="http://goo.gl/l8mUwP" target="_blank">Demo</a>
 
-````
+```javascript
 class Parent {
 	print() {
 		 console.log('I am a class');
@@ -38,7 +38,7 @@ new Parent().print(); //print I am a class
 
 <a href="http://goo.gl/QjjE99" target="_blank">Demo</a>
 
-````
+```javascript
 new myClass().print(); //TypeError due to hoisting limitation in class
 
 class myClass {
@@ -58,7 +58,7 @@ Using class we can create a base class or parent class which can be later inheri
 
 <a href="http://goo.gl/O3YUUa" target="_blank">Demo</a>
 
-````
+```javascript
 //Parent class
 class Parent {
 	constructor(myName) {

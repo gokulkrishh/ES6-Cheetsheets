@@ -1,13 +1,13 @@
 # Let & Const
 
-Let is block level scope local variable and Const is same as let but read-only single assignment variable.
+Let is block level scope local variable and const is same as let but read-only single assignment variable.
 
 
 ## Let
 
 <a href="http://goo.gl/UaqMoj" target="_blank">Demo</a>
 
-````
+```javascript
 var obj = {
 	name: 'Gokul',
 	age: 21,
@@ -24,7 +24,9 @@ console.log(i); //i is not defined
 
 ````
 
-````
+> `let` will also throw an error if any duplicate declaration is made
+
+```javascript
 
 if (true) {
 	let foo = 10;
@@ -41,7 +43,7 @@ console.log(foo); //foo is not defined
 
 <a href="http://goo.gl/DdQ10l" target="_blank">Demo</a>
 
-````
+```javascript
 const bar = 'Hello';
 
 console.log(bar); //print Hello

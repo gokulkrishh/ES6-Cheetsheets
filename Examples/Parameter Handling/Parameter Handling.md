@@ -14,7 +14,7 @@ In ES6, handling a parameter has become lot easier.
 
 Your can passing a default parameter in function argument.
 
-````
+```javascript
 function funz(a, b = 5) {
 	console.log(a + b); //print 6
 }
@@ -25,7 +25,7 @@ funz(1);
 
 *Converted as*
 
-````
+```javascript
 function funz(a) {
 	var b = arguments.length <= 1 || arguments[1] === undefined ? 5 : arguments[1];
 
@@ -49,7 +49,7 @@ funz(1);
 
 Passing a `...` resting parameter at end of the function argument means that last argument will be received as an array.
 
-````
+```javascript
 function funz(a, ...b) {
 	console.log(a, b); //print 1 [2, 3, 4]
 }
@@ -63,7 +63,7 @@ funz(1, 2, 3, 4); // a = 1; b = [2, 3, 4]
 
 Passing a `...` spread parameter in function argument means that passing each element of array as argument.
 
-````
+```javascript
 function funz(a, b, c, d) {
 	console.log(a); //print 1
 	console.log(b); //print 2

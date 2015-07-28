@@ -4,7 +4,7 @@ Adding a method in object has become simple enough in ES6.
 
 <a href="http://goo.gl/ObpLSN" target="_blank">Demo</a>
 
-````
+```javascript
 var foo = (name) => { return name };
 
 var options = {name : 'Bar'};
