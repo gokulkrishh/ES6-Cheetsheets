@@ -33,6 +33,8 @@ More <a href="https://github.com/addyosmani/es6-tools" target="_blank">ES6 tools
 - [Modules](https://github.com/gokulkrishh/ES6-Examples/blob/master/Examples/Modules/Modules.md "Modules")
 - [Promises](#promises) - In progress
 
+More ES6 Features will be updated soon.
+
 ## Contributions
 
 Your contribution would be a great help for more developers in understanding ES6 features.
