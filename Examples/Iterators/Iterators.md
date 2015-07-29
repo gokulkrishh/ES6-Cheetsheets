@@ -15,7 +15,7 @@ var arr = [1, 2, 3, 4, 5, 6];
 arr.obj = 'I am a string';
 
 for (var i in arr) {
-	console.log(i); //print 0 1 2 3 4 5 obj
+	console.log(i); //print 0 1 2 3 4 5 obj, property names
 }
 
 ````
@@ -33,7 +33,7 @@ var arr = [1, 2, 3, 4, 5, 6];
 arr.obj = 'I am a string';
 
 for (var i of arr) {
-	console.log(i); //print 1 2 3 4 5 6 values, not index
+	console.log(i); //print 1 2 3 4 5 6, values not property name
 }
 
 ````

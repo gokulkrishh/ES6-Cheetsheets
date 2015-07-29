@@ -10,7 +10,7 @@ ECMAScript 6 is the upcoming version of the ECMAScript standard.
 
 ### Can I use ES6 now?
 
-Yes, using transpilers like <a href="http://babeljs.io/" target="_blank">babel.js</a> or <a href="https://github.com/google/traceur-compiler" target="_blank">Google Traceur</a> which converts ES6 to vanilla ES5. See more list of more compliers and tools for ES6 <a href="https://github.com/addyosmani/es6-tools" target="_blank">here</a>.
+Yes, using transpilers like <a href="http://babeljs.io/" target="_blank">babel.js</a> or <a href="https://github.com/google/traceur-compiler" target="_blank">Google Traceur</a> which converts ES6 to vanilla ES5.
 
 Also see which ECMAScript 6 features your browser does and doesn’t support in below link.
 
@@ -21,7 +21,7 @@ Also see which ECMAScript 6 features your browser does and doesn’t support in 
 - ES6 online <a href="http://babeljs.io/repl/" target="_blank">try it out</a>.
 - Chrome extension <a href="https://goo.gl/5bqjIo" target="_blank">Scratch JS</a> to run ES6 in devTools.
 
-Find more tools <a href="https://github.com/addyosmani/es6-tools" target="_blank">here</a>.
+More <a href="https://github.com/addyosmani/es6-tools" target="_blank">ES6 tools</a>.
 
 ## Table of Contents
 - [Arrows Functions](https://github.com/gokulkrishh/ES6-Examples/blob/master/Examples/Arrows%20Functions/Arrows%20Functions.md "Arrows Functions")
@@ -30,25 +30,21 @@ Find more tools <a href="https://github.com/addyosmani/es6-tools" target="_blank
 - [Let & Const](https://github.com/gokulkrishh/ES6-Examples/blob/master/Examples/Let%20&%20Const/Let%20&%20Const.md "Let & Const")
 - [Iterators](https://github.com/gokulkrishh/ES6-Examples/blob/master/Examples/Iterators/Iterators.md "Iterators")
 - [Classes & Inheritance](https://github.com/gokulkrishh/ES6-Examples/blob/master/Examples/Classes%20&%20Inheritance/Classes%20&%20Inheritance.md "Classes & Inheritance")
-- [Generators](#generators) - In progress
 - [Modules & Loaders](#modules-&-loaders) - In progress
 - [Promises](#promises) - In progress
-
-
-*More contents will be constantly updated...*
 
 ## Contributions
 
 Your contribution would be a great help for more developers in understanding ES6 features.
 
-- fork the repo
-- give a pull request
+- Fork the repo
+- Give a pull request
 
 <br>
 
 [![Gokulakrishnan](https://avatars0.githubusercontent.com/u/2944237?v=3&s=72)](https://github.com/gokulkrishh)
 
-*List will be updated with new contributors.*
+*Contributors list will be updated after PR.*
 
 Thanks!!
 
