@@ -30,7 +30,7 @@ More <a href="https://github.com/addyosmani/es6-tools" target="_blank">ES6 tools
 - [Let & Const](https://github.com/gokulkrishh/ES6-Examples/blob/master/Examples/Let%20&%20Const/Let%20&%20Const.md "Let & Const")
 - [Iterators](https://github.com/gokulkrishh/ES6-Examples/blob/master/Examples/Iterators/Iterators.md "Iterators")
 - [Classes & Inheritance](https://github.com/gokulkrishh/ES6-Examples/blob/master/Examples/Classes%20&%20Inheritance/Classes%20&%20Inheritance.md "Classes & Inheritance")
-- [Modules & Loaders](#modules-&-loaders) - In progress
+- [Modules](https://github.com/gokulkrishh/ES6-Examples/blob/master/Examples/Modules/Modules.md "Modules")
 - [Promises](#promises) - In progress
 
 ## Contributions
