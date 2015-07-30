@@ -28,10 +28,11 @@ More <a href="https://github.com/addyosmani/es6-tools" target="_blank">ES6 tools
 - [Object Literals](https://github.com/gokulkrishh/ES6-Examples/blob/master/Examples/Object%20Literals/Object%20Literals.md "Object Literals")
 - [Parameters](https://github.com/gokulkrishh/ES6-Examples/blob/master/Examples/Parameter%20Handling/Parameter%20Handling.md "Parameter Handling")
 - [Let & Const](https://github.com/gokulkrishh/ES6-Examples/blob/master/Examples/Let%20&%20Const/Let%20&%20Const.md "Let & Const")
+- [Templates & Strings](https://github.com/gokulkrishh/ES6-Examples/blob/master/Examples/Templates%20&%20Strings/Templates%20&%20Strings.md "Templates & Strings")
 - [Iterators](https://github.com/gokulkrishh/ES6-Examples/blob/master/Examples/Iterators/Iterators.md "Iterators")
 - [Classes & Inheritance](https://github.com/gokulkrishh/ES6-Examples/blob/master/Examples/Classes%20&%20Inheritance/Classes%20&%20Inheritance.md "Classes & Inheritance")
 - [Modules](https://github.com/gokulkrishh/ES6-Examples/blob/master/Examples/Modules/Modules.md "Modules")
-- [Promises](#promises) - In progress
+- [Promises](https://github.com/gokulkrishh/ES6-Examples/blob/master/Examples/Promises/Promises.md "Promises")
 
 More ES6 Features will be updated soon.
 
@@ -42,13 +43,13 @@ Your contribution would be a great help for more developers in understanding ES6
 - Fork the repo
 - Give a pull request
 
+Thanks!!
+
 <br>
 
 [![Gokulakrishnan](https://avatars0.githubusercontent.com/u/2944237?v=3&s=72)](https://github.com/gokulkrishh)
 
 *Contributors list will be updated after PR.*
-
-Thanks!!
 
 License
 ----
