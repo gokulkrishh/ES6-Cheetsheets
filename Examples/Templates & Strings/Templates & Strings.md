@@ -12,11 +12,11 @@ var myMsg = `Hello ${name}`;
 alert(myMsg); //alert Hello Foo
 ````
 
->Note: I have not used single quote here.
+>Note: I have not used single quotes here.
 
 ## Multiline strings
 
-In vanilla JS, to create multiline we have to use `\n`. But in ES6, writing in next line will be taken new line.
+In vanilla JS, to create multiline we have to use `\n`. But in ES6, writing in next line will be taken as new line.
 
 <a href="http://goo.gl/7Zat5y" target="_blank">Demo</a>
 
