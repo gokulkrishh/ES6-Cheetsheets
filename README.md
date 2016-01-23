@@ -1,6 +1,6 @@
-# <img src="http://i.imgur.com/dZ3KF2a.png" width="100px"/> ECMAScript 6 Documentation
+# <img src="http://i.imgur.com/dZ3KF2a.png" width="100px"/> ES6 Cheetsheets
 
-*A minimal documentation of ES6 features with examples*
+*A minimal documentation of ES6 with examples*
 
 >Note: Used <a href="http://babeljs.io/" target="_blank">babel.js</a> for my examples.
 
